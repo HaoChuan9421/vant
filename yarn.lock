@@ -2,24 +2,24 @@
 # yarn lockfile v1
 
 
-"@algolia/autocomplete-core@1.2.2":
-  version "1.2.2"
-  resolved "https://registry.nlark.com/@algolia/autocomplete-core/download/@algolia/autocomplete-core-1.2.2.tgz#c121e70c78fd0175c989a219918124ad7758e48b"
-  integrity sha1-wSHnDHj9AXXJiaIZkYEkrXdY5Is=
+"@algolia/autocomplete-core@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-core/-/autocomplete-core-1.5.0.tgz#6c91c9de7748e9c103846828a58dfe92bd4d6689"
+  integrity sha512-E7+VJwcvwMM8vPeaVn7fNUgix8WHV8A1WUeHDi2KHemCaaGc8lvUnP3QnvhMxiDhTe7OpMEv4o2TBUMyDgThaw==
   dependencies:
-    "@algolia/autocomplete-shared" "1.2.2"
+    "@algolia/autocomplete-shared" "1.5.0"
 
-"@algolia/autocomplete-preset-algolia@1.2.2":
-  version "1.2.2"
-  resolved "https://registry.nlark.com/@algolia/autocomplete-preset-algolia/download/@algolia/autocomplete-preset-algolia-1.2.2.tgz#da734ef9e42a5f64cdad2dfc81c4e9fbf805d976"
-  integrity sha1-2nNO+eQqX2TNrS38gcTp+/gF2XY=
+"@algolia/autocomplete-preset-algolia@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-preset-algolia/-/autocomplete-preset-algolia-1.5.0.tgz#61671f09c0c77133d9baf1356719f8378c48437a"
+  integrity sha512-iiFxKERGHkvkiupmrFJbvESpP/zv5jSgH714XRiP5LDvUHaYOo4GLAwZCFf2ef/L5tdtPBARvekn6k1Xf33gjA==
   dependencies:
-    "@algolia/autocomplete-shared" "1.2.2"
+    "@algolia/autocomplete-shared" "1.5.0"
 
-"@algolia/autocomplete-shared@1.2.2":
-  version "1.2.2"
-  resolved "https://registry.nlark.com/@algolia/autocomplete-shared/download/@algolia/autocomplete-shared-1.2.2.tgz#ff25dc308f2a296b2b9b325f1e3b57498eea3e0c"
-  integrity sha1-/yXcMI8qKWsrmzJfHjtXSY7qPgw=
+"@algolia/autocomplete-shared@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-shared/-/autocomplete-shared-1.5.0.tgz#09580bc89408a2ab5f29e312120dad68f58019bd"
+  integrity sha512-bRSkqHHHSwZYbFY3w9hgMyQRm86Wz27bRaGCbNldLfbk0zUjApmE4ajx+ZCVSLqxvcUEjMqZFJzDsder12eKsg==
 
 "@algolia/cache-browser-local-storage@4.10.5":
   version "4.10.5"
@@ -1054,22 +1054,27 @@
   resolved "https://registry.nlark.com/@docsearch/css/download/@docsearch/css-3.0.0-alpha.40.tgz?cache=0&sync_timestamp=1629703518195&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40docsearch%2Fcss%2Fdownload%2F%40docsearch%2Fcss-3.0.0-alpha.40.tgz#c37bd7b03f4c30a6ea7a19b87fe71880d2e8b22a"
   integrity sha1-w3vXsD9MMKbqehm4f+cYgNLosio=
 
-"@docsearch/js@3.0.0-alpha.40":
-  version "3.0.0-alpha.40"
-  resolved "https://registry.nlark.com/@docsearch/js/download/@docsearch/js-3.0.0-alpha.40.tgz?cache=0&sync_timestamp=1629703519149&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40docsearch%2Fjs%2Fdownload%2F%40docsearch%2Fjs-3.0.0-alpha.40.tgz#28b48fd23053222e6097ddfa3b515ae388634717"
-  integrity sha1-KLSP0jBTIi5gl936O1Fa44hjRxc=
+"@docsearch/css@3.0.0-alpha.42":
+  version "3.0.0-alpha.42"
+  resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-3.0.0-alpha.42.tgz#deb6049e999d6ca9451eba4793cb5b6da28c8773"
+  integrity sha512-AGwI2AXUacYhVOHmYnsXoYDJKO6Ued2W+QO80GERbMLhC7GH5tfvtW5REs/s7jSdcU3vzFoxT8iPDBCh/PkrlQ==
+
+"@docsearch/js@3.0.0-alpha.42":
+  version "3.0.0-alpha.42"
+  resolved "https://registry.yarnpkg.com/@docsearch/js/-/js-3.0.0-alpha.42.tgz#3cef648da141994c8bb1d0f13afbdb0a1e9d8daa"
+  integrity sha512-8rxxsvFKS5GzDX2MYMETeib4EOwAkoxVUHFP5R4tSENXojhuCEy3np+k3Q0c9WPT+MUmWLxKJab5jyl0jmaeBQ==
   dependencies:
-    "@docsearch/react" "3.0.0-alpha.40"
+    "@docsearch/react" "3.0.0-alpha.42"
     preact "^10.0.0"
 
-"@docsearch/react@3.0.0-alpha.40":
-  version "3.0.0-alpha.40"
-  resolved "https://registry.nlark.com/@docsearch/react/download/@docsearch/react-3.0.0-alpha.40.tgz?cache=0&sync_timestamp=1629703518559&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40docsearch%2Freact%2Fdownload%2F%40docsearch%2Freact-3.0.0-alpha.40.tgz#d912b4bb7281cb0faf65590c9cf022aa2a13d823"
-  integrity sha1-2RK0u3KByw+vZVkMnPAiqioT2CM=
+"@docsearch/react@3.0.0-alpha.42":
+  version "3.0.0-alpha.42"
+  resolved "https://registry.yarnpkg.com/@docsearch/react/-/react-3.0.0-alpha.42.tgz#1d22a2b05779f24d090ff8d7ff2699e4d50dff5c"
+  integrity sha512-1aOslZJDxwUUcm2QRNmlEePUgL8P5fOAeFdOLDMctHQkV2iTja9/rKVbkP8FZbIUnZxuuCCn8ErLrjD/oXWOag==
   dependencies:
-    "@algolia/autocomplete-core" "1.2.2"
-    "@algolia/autocomplete-preset-algolia" "1.2.2"
-    "@docsearch/css" "3.0.0-alpha.40"
+    "@algolia/autocomplete-core" "1.5.0"
+    "@algolia/autocomplete-preset-algolia" "1.5.0"
+    "@docsearch/css" "3.0.0-alpha.42"
     algoliasearch "^4.0.0"
 
 "@eslint/eslintrc@^0.4.3":
