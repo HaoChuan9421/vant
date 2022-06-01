@@ -1054,6 +1054,11 @@
   resolved "https://registry.nlark.com/@docsearch/css/download/@docsearch/css-3.0.0-alpha.40.tgz?cache=0&sync_timestamp=1629703518195&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40docsearch%2Fcss%2Fdownload%2F%40docsearch%2Fcss-3.0.0-alpha.40.tgz#c37bd7b03f4c30a6ea7a19b87fe71880d2e8b22a"
   integrity sha1-w3vXsD9MMKbqehm4f+cYgNLosio=
 
+"@docsearch/css@3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-3.1.0.tgz#6781cad43fc2e034d012ee44beddf8f93ba21f19"
+  integrity sha512-bh5IskwkkodbvC0FzSg1AxMykfDl95hebEKwxNoq4e5QaGzOXSBgW8+jnMFZ7JU4sTBiB04vZWoUSzNrPboLZA==
+
 "@docsearch/js@3.0.0-alpha.40":
   version "3.0.0-alpha.40"
   resolved "https://registry.nlark.com/@docsearch/js/download/@docsearch/js-3.0.0-alpha.40.tgz?cache=0&sync_timestamp=1629703519149&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40docsearch%2Fjs%2Fdownload%2F%40docsearch%2Fjs-3.0.0-alpha.40.tgz#28b48fd23053222e6097ddfa3b515ae388634717"
